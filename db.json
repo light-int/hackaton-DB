@@ -8,7 +8,41 @@
       "sexe": "m",
       "username": "Dark Sink",
       "email": "obame-marc@gmail.com",
-      "accountType": "user"
+      "accountType": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "nom": "OSOUNGA",
+      "prenom": "Terrence",
+      "age": 32,
+      "sexe": "m",
+      "username": "OSOUNG-T",
+      "email": "osoungT@gmail.com",
+      "accountType": "entreprise",
+      "password": "entr"
+    },
+    {
+      "id": 3,
+      "nom": "KIMI",
+      "prenom": "Lea",
+      "age": 22,
+      "sexe": "f",
+      "username": "Kimi",
+      "email": "KimiLea@gmail.com",
+      "accountType": "investisseur",
+      "password": "inves"
+    },
+    {
+      "id": 4,
+      "nom": "MAGANGA",
+      "prenom": "Berny",
+      "age": 27,
+      "sexe": "m",
+      "username": "Berny M",
+      "email": "magangaberny@gmail.com",
+      "accountType": "user",
+      "password": "user"
     }
   ],
   "articles": [
