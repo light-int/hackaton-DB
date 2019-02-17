@@ -1,0 +1,23 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nom": "Obame",
+      "prenom": "Marc",
+      "age": 25,
+      "sexe": "m",
+      "username": "Dark Sink",
+      "email": "obame-marc@gmail.com",
+      "accountType": "user"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "La reussite",
+      "description": "Si vous voulez réussir, quel que soit le domaine, vous devez vous fixer des objectifs.Sans buts, vous n’avez pas de direction et vous naviguez à vue.Les objectifs vous permettent de prendre le contrôle sur votre vie professionnelle et personnelle.",
+      "date": "10 fev 2019"
+    }
+  ]
+}
