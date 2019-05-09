@@ -1,3 +1,4 @@
+    "id": 1,
 {
   "user": [
     {
@@ -52,6 +53,15 @@
       "title": "La reussite",
       "description": "Si vous voulez réussir, quel que soit le domaine, vous devez vous fixer des objectifs.Sans buts, vous n’avez pas de direction et vous naviguez à vue.Les objectifs vous permettent de prendre le contrôle sur votre vie professionnelle et personnelle.",
       "date": "10 fev 2019"
+    }
+  ],
+  "projets": [
+    {
+       "id": 1,
+       "img": "assets/img/projet-1.png",
+       "libelle": "Job Connect",
+       "description": "Job connect est une plateforme de suivi de CV en ligne. Il a ete concu en php essentielement avec le framework laravel",
+       "url": "jobconnect.pro"
     }
   ]
 }
