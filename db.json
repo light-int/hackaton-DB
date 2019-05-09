@@ -62,6 +62,14 @@
        "libelle": "Job Connect",
        "description": "Job connect est une plateforme de suivi de CV en ligne. Il a ete concu en php essentielement avec le framework laravel",
        "url": "jobconnect.pro"
+    },
+    {
+       "id": 2,
+       "img": "assets/img/projet-1.png",
+       "libelle": "GabaoNkama",
+       "description": "GabaoNkama est une plateforme d'annonce. Il a ete concu avec le cms Wordpress",
+       "url": "jobconnect.pro"
+
     }
   ]
 }
