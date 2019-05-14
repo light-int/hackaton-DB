@@ -1,60 +1,5 @@
-
 {
-  "user": [
-    {
-      "id": 1,
-      "nom": "Obame",
-      "prenom": "Marc",
-      "age": 25,
-      "sexe": "m",
-      "username": "Dark Sink",
-      "email": "obame-marc@gmail.com",
-      "accountType": "admin",
-      "password": "admin"
-    },
-    {
-      "id": 2,
-      "nom": "OSOUNGA",
-      "prenom": "Terrence",
-      "age": 32,
-      "sexe": "m",
-      "username": "OSOUNG-T",
-      "email": "osoungT@gmail.com",
-      "accountType": "entreprise",
-      "password": "entr"
-    },
-    {
-      "id": 3,
-      "nom": "KIMI",
-      "prenom": "Lea",
-      "age": 22,
-      "sexe": "f",
-      "username": "Kimi",
-      "email": "KimiLea@gmail.com",
-      "accountType": "investisseur",
-      "password": "inves"
-    },
-    {
-      "id": 4,
-      "nom": "MAGANGA",
-      "prenom": "Berny",
-      "age": 27,
-      "sexe": "m",
-      "username": "Berny M",
-      "email": "magangaberny@gmail.com",
-      "accountType": "user",
-      "password": "user"
-    }
-  ],
-  "articles": [
-    {
-      "id": 1,
-      "userId": 1,
-      "title": "La reussite",
-      "description": "Si vous voulez réussir, quel que soit le domaine, vous devez vous fixer des objectifs.Sans buts, vous n’avez pas de direction et vous naviguez à vue.Les objectifs vous permettent de prendre le contrôle sur votre vie professionnelle et personnelle.",
-      "date": "10 fev 2019"
-    }
-  ],
+
   "projets": [
     {
        "id": 1,
@@ -81,7 +26,7 @@
        "url": "#",
        "role": "Developpeur front-end"
 
-},
+	},
     {
        "id": 4,
        "img": "assets/img/projet-4.png",
@@ -90,7 +35,7 @@
        "url": "okacode-gaming.netlify.com",
        "role": "Developpeur front-end"
 
-},
+	},
     {
        "id": 5,
        "img": "assets/img/projet-5.png",
@@ -99,7 +44,7 @@
        "url": "conso-assure.netlify.com",
        "role": "Developpeur front-end / mobile"
 
-},
+	},
     {
        "id": 6,
        "img": "assets/img/projet-6.png",
@@ -107,8 +52,7 @@
        "description": "Bwedi est une platforme d'orientation scolaire, Aujourd'hui les jeunes écolier ne savent pas trop ce qu'ils veulent faire plutard c'est dans cette optique que s'inscrit le la mise en place de BWEDi.",
        "url": "www.bwedi.com",
        "role": "Developpeur fullstack"
-
-},
+	},
     {
        "id": 7,
        "img": "assets/img/projet-7.png",
@@ -116,8 +60,7 @@
        "description": "Proxima identifie des entrepreneurs de projets et entrepreneurs à fort potentiel, les accompagne dans la structuration et le développement de leurs projets et initiatives, et aussi de mettre à leur disposition les nouvelles technologies.",
        "url": "conso-assure.netlify.com",
        "role": "Developpeur front-end"
-
-},
+	},
     {
        "id": 8,
        "img": "assets/img/projet-8.png",
@@ -125,7 +68,6 @@
        "description": "Job connect est une plateforme de suivi de CV en ligne. Il a ete concu en php essentielement avec le framework laravel",
        "url": "conso-assure.netlify.com",
        "role": "Developpeur front-end"
-
-}
+	}
   ]
 }
