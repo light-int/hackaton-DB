@@ -3,7 +3,7 @@
   "projets": [
     {
        "id": 1,
-       "img": "assets/images/projet-1.png",
+       "img": "projet-1.png",
        "libelle": "Job Connect v1.0",
        "description": "Job connect est une plateforme de suivi de CV en ligne. Il a ete concu en php essentielement avec le framework laravel",
        "url": "www.jobconnect.pro",
@@ -11,7 +11,7 @@
     },
     {
        "id": 2,
-       "img": "assets/images/projet-2.png",
+       "img": "projet-2.png",
        "libelle": "GabaoNkama",
        "description": "GabaoNkama est une plateforme d'annonce en cours de conception. Il a ete concu avec le cms Wordpress",
        "url": "www.gabaonkama.com",
@@ -20,7 +20,7 @@
     },
     {
        "id": 3,
-       "img": "assets/images/projet-3.png",
+       "img": "projet-3.png",
        "libelle": "ADHI",
        "description": "ADHI est une entreprise immobilière qui fait dans la vente et la construction à l'aide de materiaux innovants, j'ai donc participé a la mise en place de leur nouvelle platforme web en tant que developpeur front-end. ce site est static et programme en HTML CSS3.",
        "url": "#",
@@ -29,7 +29,7 @@
 	},
     {
        "id": 4,
-       "img": "assets/img/projet-4.png",
+       "img": "projet-4.png",
        "libelle": "OkaCode Gaming",
        "description": "OkaCode gaming est une alternative au portail okacode qui est une platforme communautaire comptant 44 membres tous issue de l'ecole 241",
        "url": "okacode-gaming.netlify.com",
@@ -38,7 +38,7 @@
 	},
     {
        "id": 5,
-       "img": "assets/img/projet-5.png",
+       "img": "projet-5.png",
        "libelle": "Conso assure +",
        "description": "Conso Assure + est une application mobile. ",
        "url": "conso-assure.netlify.com",
@@ -47,7 +47,7 @@
 	},
     {
        "id": 6,
-       "img": "assets/img/projet-6.png",
+       "img": "projet-6.png",
        "libelle": "Bwedi",
        "description": "Bwedi est une platforme d'orientation scolaire, Aujourd'hui les jeunes écolier ne savent pas trop ce qu'ils veulent faire plutard c'est dans cette optique que s'inscrit le la mise en place de BWEDi.",
        "url": "www.bwedi.com",
@@ -55,7 +55,7 @@
 	},
     {
        "id": 7,
-       "img": "assets/img/projet-7.png",
+       "img": "projet-7.png",
        "libelle": "Proxima",
        "description": "Proxima identifie des entrepreneurs de projets et entrepreneurs à fort potentiel, les accompagne dans la structuration et le développement de leurs projets et initiatives, et aussi de mettre à leur disposition les nouvelles technologies.",
        "url": "conso-assure.netlify.com",
@@ -63,7 +63,7 @@
 	},
     {
        "id": 8,
-       "img": "assets/img/projet-8.png",
+       "img": "projet-8.png",
        "libelle": "JobConnect v1.2",
        "description": "Job connect est une plateforme de suivi de CV en ligne. Il a ete concu en php essentielement avec le framework laravel",
        "url": "conso-assure.netlify.com",
